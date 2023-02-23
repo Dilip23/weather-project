@@ -1,10 +1,4 @@
-
-
-
-
-
-![Screenshot](https://user-images.githubusercontent.com/30292638/220863867-0dede16c-0bf1-44a7-8cf0-50b1438b403f.png)
-
+![Home page](https://user-images.githubusercontent.com/30292638/220864422-a84615ef-70c5-432e-95f5-decd9ae458cf.png)
 
 
 # Getting Started with Create React App
